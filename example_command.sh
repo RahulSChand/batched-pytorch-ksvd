@@ -1,0 +1,1 @@
+python analysis_clean.py --w_path w.npy --basis 32 --sp 8 --save_name sp_32
