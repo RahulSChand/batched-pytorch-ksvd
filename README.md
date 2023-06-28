@@ -7,5 +7,7 @@ https://github.com/nel215/ksvd only works with 2d matrix **(A, B)**. This repo e
 
 `example_command.sh` contains example of how to run the batched KSVD on GPU using pytorch.
 
+Running `example_command.sh` computes the coefficient & basis of the given weight matrix & sparsity and saves it with `--save_name`.npy extension. 
+
 This library was written as part of work at MSR India.
  
